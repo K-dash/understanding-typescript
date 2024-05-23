@@ -1,0 +1,22 @@
+{
+  "name": "understanding-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "volta": {
+    "node": "20.13.1",
+    "npm": "10.5.2"
+  },
+  "dependencies": {
+    "typescript": "^5.4.5"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "description": ""
+}
